@@ -1,0 +1,36 @@
+# API Keys and Environment Variables
+.env
+*.env
+
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+
+# Android specific
+android/app/debug
+android/app/profile
+android/app/release
+android/.gradle
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/app/src/main/res/mipmap-*
+
+# iOS specific
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# IDE files
+.vscode/
+.idea/
+*.iml
