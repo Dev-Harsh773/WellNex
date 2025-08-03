@@ -8,25 +8,27 @@
 </p>
 
 <table align="center">
-  <tr>
-    <td align="center"><b>Secure Sign In</b></td>
-    <td align="center"><b>Easy Sign Up</b></td>
-    <td align="center"><b>Home Dashboard</b></td>
+  <!-- First Row of Images -->
+  <tr align="center">
+    <td><b>Secure Sign In</b></td>
+    <td><b>Easy Sign Up</b></td>
+    <td><b>Home Dashboard</b></td>
   </tr>
-  <tr>
-    <td><img src="![Image](https://github.com/user-attachments/assets/fc30b61e-af99-42a5-b71c-50908e93937d)" alt="Sign In Screen" width="260"></td>
-    <td><img src="![Image](https://github.com/user-attachments/assets/6a671e20-69b5-43bb-9ffe-8a7977eab49d)" alt="Sign Up Screen" width="260"></td>
-    <td><img src="![Image](https://github.com/user-attachments/assets/ccdc6ade-ed52-4f45-b023-634dff36da21)" alt="Home Dashboard" width="260"></td>
+  <tr align="center">
+    <td><img src="https://github.com/user-attachments/assets/fc30b61e-af99-42a5-b71c-50908e93937d" alt="Sign In Screen" width="260"></td>
+    <td><img src="https://github.com/user-attachments/assets/6a671e20-69b5-43bb-9ffe-8a7977eab49d" alt="Sign Up Screen" width="260"></td>
+    <td><img src="https://github.com/user-attachments/assets/ccdc6ade-ed52-4f45-b023-634dff36da21" alt="Home Dashboard" width="260"></td>
   </tr>
-  <tr>
-    <td align="center"><b>Dynamic Log Form</b></td>
-    <td align="center"><b>Daily AI Fitness Tip</b></td>
-    <td align="center"><b>Contextual AI Chat</b></td>
+  <!-- Second Row of Images -->
+  <tr align="center">
+    <td><b>Dynamic Log Form</b></td>
+    <td><b>Daily AI Fitness Tip</b></td>
+    <td><b>Contextual AI Chat</b></td>
   </tr>
-  <tr>
-    <td><img src="![Image](https://github.com/user-attachments/assets/80e65774-c157-41ab-96e4-d0dda6850b8c)" alt="Add Wellness Log Screen" width="260"></td>
-    <td><img src="![Image](https://github.com/user-attachments/assets/a58cfbad-247d-461f-9455-ef41036945f0)" alt="AI Fitness Tip Popup" width="260"></td>
-    <td><img src="![Image](https://github.com/user-attachments/assets/ca32aea5-500a-41f6-af04-aebe7e7e4261)" alt="AI Chat Screen" width="260"></td>
+  <tr align="center">
+    <td><img src="https://github.com/user-attachments/assets/80e65774-c157-41ab-96e4-d0dda6850b8c" alt="Add Wellness Log Screen" width="260"></td>
+    <td><img src="https://github.com/user-attachments/assets/a58cfbad-247d-461f-9455-ef41036945f0" alt="AI Fitness Tip Popup" width="260"></td>
+    <td><img src="https://github.com/user-attachments/assets/ca32aea5-500a-41f6-af04-aebe7e7e4261" alt="AI Chat Screen" width="260"></td>
   </tr>
 </table>
 
